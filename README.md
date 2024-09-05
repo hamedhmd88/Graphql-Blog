@@ -1,8 +1,15 @@
-# React + Vite
+# Blog Platform
+Description: 
+  Developed a single-page application (SPA) for a blog using React.js and GraphQL, focusing on seamless data retrieval and user experience.
+## Key Features:
+### Main Page: 
+  Displayed articles and authors, offering an overview of the content and contributors.
+### Author Pages: 
+  Created dedicated pages for each author, featuring detailed profiles and article lists.
+### Commenting System: 
+  Enabled users to leave comments on individual articles, fostering engagement and interaction.
+## Technologies: React.js, GraphQL, SPA architecture.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<a href="https://managment-beta.vercel.app/">Live Demo Link</a>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![project](./assets/project.jpg)
