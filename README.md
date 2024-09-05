@@ -10,6 +10,6 @@ Description:
   Enabled users to leave comments on individual articles, fostering engagement and interaction.
 ## Technologies: React.js, GraphQL, SPA architecture.
 
-<a href="https://managment-beta.vercel.app/">Live Demo Link</a>
+<a href="https://graphql-blog-rhsf.vercel.app/">Live Demo Link</a>
 
-![project](./assets/project.jpg)
+![project](./src/assets/project.jpg)
